@@ -1,5 +1,14 @@
 export default [
   {
+    title: 'Why this setup?',
+    slug: 'why-this-setup',
+    author: 'Sebb',
+    date: '2017-10-3 20:26 PDT',
+    tags: ['blog'],
+    body:
+      "\n## Why this setup\nI have choosen to use 'next-static' as my blog setup for now.\n\nThe main reason is that i seems the simplest to get going in regards to a git-based blog.\nI tried out a few alernatives, and there were not simple to et started with or outright just did not work.\n",
+  },
+  {
     title: 'My First Post',
     slug: 'hello-world',
     author: 'Luke H',
@@ -16,14 +25,5 @@ export default [
     tags: ['blog', 'dad jokes'],
     body:
       "\n## Puns\n_Next_ post. Get it? _Next_? I'll let myself out...\n\n```bash\necho $PATH\n```\n",
-  },
-  {
-    title: 'Why this setup?',
-    slug: 'why-this-setup',
-    author: 'Sebb',
-    date: '2017-10-3 20:26 PDT',
-    tags: ['blog'],
-    body:
-      "\n## Why this setup\nI have choosen to use 'next-static' as my blog setup for now.\n\nThe main reason is that i seems the simplest to get going in regards to a git-based blog.\nI tried out a few alernatives, and there were not simple to et started with or outright just did not work.\n",
   },
 ];
