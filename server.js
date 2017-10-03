@@ -23,8 +23,8 @@ app.prepare().then(() => {
 
   server.get('*', (req, res) => handle(req, res));
 
-  server.listen(3000, err => {
+  server.listen(2121, err => {
     if (err) throw err;
-    console.log('> Ready on http://localhost:3000'); // eslint-disable-line no-console
+    console.log('> Ready on http://localhost:2121'); // eslint-disable-line no-console
   });
 });
