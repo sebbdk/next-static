@@ -2,7 +2,7 @@
 title: Why this setup?
 slug: why-this-setup
 author: Sebb
-date: 2017-3-10 20:26 PDT
+date: 2017-10-3 20:26 PDT
 tags:
   - blog
 ---
