@@ -14,7 +14,7 @@
     "predeploy": "yarn export && touch out/.nojekyll && echo \"lukeherrington.com\" > out/CNAME",
     "deploy": "gh-pages -t -d out",
     "lint": "eslint . --fix",
-    "test": "jest --clearCache",
+    "test": "jest",
     "test:watch": "jest --watch",
     "test:update": "npm test -- -u",
     "flow": "flow",
