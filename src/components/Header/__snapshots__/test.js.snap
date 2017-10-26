@@ -7,12 +7,12 @@ exports[`Snapshot::<Header /> component should render the contents of the compon
   <h1
     className="header--siteName"
   >
-    Next Static Blog
+    Entity blog
   </h1>
   <div
     className="header--slogan"
   >
-    ✨ Start static then go server rendered when you need to ✨
+    Whatever, whenever, this is for me.
   </div>
 </header>
 `;
